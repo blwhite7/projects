@@ -1,2 +1,2 @@
 # Brent White's Public Projects
->> Image Compression Using PCA
+- Image Compression Using PCA
